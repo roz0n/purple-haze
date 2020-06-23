@@ -1,5 +1,5 @@
 # Purple Haze
-A dank iTerm2 cli theme by yours truly
+A dank iTerm2 cli theme
 
 ## Preview
 ![Preview](preview.png)
